@@ -3,7 +3,8 @@ restaurants_attributes = [
   {
     name:         'Tsi Tsi',
     address:      '7 Boundary St, London E2 7JE',
-    category:     'japanese'
+    category:     'japanese',
+    review:       'Best restaurant ever'
   },
   {
     name:         'Pizza East',
